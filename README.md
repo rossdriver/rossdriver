@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am currently an ECU student working on my Supply Chain Management degree, and my Data Analytics certifiacte.
-i am new to the MIS wrold and a trying to learn waht i can.
+I am new to the MIS wrold and a trying to learn waht I can.
 
 <!--
 **rossdriver/rossdriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
